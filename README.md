@@ -10,7 +10,7 @@ Basicamente, o aplicativo deveria funcionar da seguinte forma:
 (b) o aplicativo faz o download da imagem e a renderiza na tela assim que o download tiver sido concluído.
 (c) enquanto a imagem estiver sendo baixada, uma animação de loading deverá ser exibida na tela.
 
-<img src="./assets/prototype.gif" style="margin: auto; display: block;" width="200" />
+<img src="./assets/prototype.gif" style="margin: auto; display: block;" width="350" />
 
 ### 01 - Identificação do bug
 
