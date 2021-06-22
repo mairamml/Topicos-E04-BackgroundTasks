@@ -1,0 +1,2 @@
+rootProject.name = "Topicos-E04-BackgroundTasks"
+include ':app'
