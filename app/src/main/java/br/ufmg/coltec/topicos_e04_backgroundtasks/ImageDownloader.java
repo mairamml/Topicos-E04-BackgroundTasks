@@ -1,8 +1,9 @@
+package br.ufmg.coltec.topicos_e04_backgroundtasks;
+
 /**
  * Classe retirada do livro Google Android, 3a edição
  * @author R. Lecheta
  */
-package br.ufmg.coltec.topicos_e04_backgroundtasks;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
